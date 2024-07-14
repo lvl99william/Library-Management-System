@@ -1,0 +1,3 @@
+/home/william/Documents/Projects/Library-Management-System/build/CMakeFiles/Library_Management_System.dir
+/home/william/Documents/Projects/Library-Management-System/build/CMakeFiles/edit_cache.dir
+/home/william/Documents/Projects/Library-Management-System/build/CMakeFiles/rebuild_cache.dir
