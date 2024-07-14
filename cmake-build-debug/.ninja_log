@@ -1,4 +1,13 @@
 # ninja log v6
-0	324	1720939685233843554	CMakeFiles/Library_Management_System.dir/Book.cpp.o	dfab085951e964c1
-313	374	1720939739328640101	Library_Management_System	1c5c864a66aa4530
-1	313	1720939739016646883	CMakeFiles/Library_Management_System.dir/main.cpp.o	39f52dcf36a1ccc7
+1	666	1720944742777905356	CMakeFiles/Library_Management_System.dir/src/Library.cpp.o	c780d9032dbd81fb
+0	518	1720944742776905367	CMakeFiles/Library_Management_System.dir/src/main.cpp.o	ec47eb1d5093235d
+0	20	1720944878578399605	build.ninja	dcff360c4801002e
+1	539	1720944742777905356	CMakeFiles/Library_Management_System.dir/Book.cpp.o	dfab085951e964c1
+419	496	1720944512621389147	Library_Management_System	b33b99b919a095a3
+1	331	1720944512203393559	CMakeFiles/Library_Management_System.dir/main.cpp.o	39f52dcf36a1ccc7
+1	419	1720944512203393559	CMakeFiles/Library_Management_System.dir/Library.cpp.o	f486ec6aa9c20f59
+2	406	1720944512204393549	CMakeFiles/Library_Management_System.dir/FictionBook.cpp.o	5482151c7aa4e07b
+0	22	1720944878578399605	build.ninja	dcff360c4801002e
+1	370	1720944878588399493	CMakeFiles/Library_Management_System.dir/src/Book.cpp.o	6695bab487e3c0a7
+1	421	1720944907531075618	CMakeFiles/Library_Management_System.dir/src/FictionBook.cpp.o	b85535019f540f3c
+421	492	1720944907951070911	Library_Management_System	cb587d3c7bccb496

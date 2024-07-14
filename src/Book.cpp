@@ -2,7 +2,7 @@
 // Created by william on 7/14/24.
 //
 
-#include "Book.h"
+#include "../include/Book.h"
 Book::Book(std::string title, std::string author, int yearPublished)
     : title(title), author(author), yearPublished(yearPublished), available(true) {}
 

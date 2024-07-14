@@ -23,7 +23,8 @@ public:
     bool isAvailable() const;
     void borrowBook();
     void returnBook();
-    void displayDetails() const;
+
+    virtual void displayDetails() const;
 
 };
 
