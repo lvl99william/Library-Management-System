@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Library_Management_System.dir/main.cpp.o CMakeFiles/Library_Management_System.dir/Book.cpp.o -o Library_Management_System 

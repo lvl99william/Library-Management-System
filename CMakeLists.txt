@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(Library_Management_System main.cpp
         Book.cpp
-        Book.h)
+        Book.h
+        Library.cpp
+        Library.h)
