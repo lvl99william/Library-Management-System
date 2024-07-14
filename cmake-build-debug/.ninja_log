@@ -1,0 +1,7 @@
+# ninja log v6
+0	413	1720939525614764006	CMakeFiles/Library_Management_System.dir/main.cpp.o	39f52dcf36a1ccc7
+413	491	1720939526027753042	Library_Management_System	160b30a2cda20fd3
+0	324	1720939685233843554	CMakeFiles/Library_Management_System.dir/Book.cpp.o	dfab085951e964c1
+324	384	1720939685557836178	Library_Management_System	1c5c864a66aa4530
+1	313	1720939739016646883	CMakeFiles/Library_Management_System.dir/main.cpp.o	39f52dcf36a1ccc7
+313	374	1720939739328640101	Library_Management_System	1c5c864a66aa4530
