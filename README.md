@@ -10,3 +10,7 @@ cd cmake-build-debug
 ```bash
 cmake ..
 ```
+
+```bash
+./Library_Management_System
+```
