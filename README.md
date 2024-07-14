@@ -8,5 +8,5 @@ cd cmake-build-debug
 ```
 
 ```bash
-cmake
+cmake ..
 ```
